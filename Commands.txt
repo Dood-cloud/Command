@@ -1,0 +1,500 @@
+   49  git log
+   50  git push origin main
+   51  git push origin main
+   52  git status
+   53  git add helloworld.sh
+   54  git status
+   55  git add 2-second\ file 
+   56  git commit 2-second file
+   57  git commit 2-second\ file 
+   58  exit
+   59  cd /D/JoinDevops/
+   60  ls
+   61  cd devops/
+   62  git clone https://github.com/Dood-cloud/ravi-daws.git
+   63  ls 
+   64  cd ravi-daws/
+   65  ls -la
+   66  git status
+   67  git add o1-helloworld.sh
+   68  git add 01-helloworld.sh
+   69  git add .
+   70  git status
+   71  git commit -m "mitigated lf and crlf error"
+   72   git status
+   73  git chekout-index --force -all
+   74  git checkout-index --force -all
+   75  git checkout-index --force --all
+   76  git status
+   77  git status
+   78  git status
+   79  git add .
+   80  git config --global core.autocrlf true
+   81  git status
+   82  git commit -m "malli error"
+   83  git status
+   84  git push origin main
+   85  git status
+   86  git add .
+   87  exit
+   88  git status
+   89  git clone https://github.com/Dood-cloud/ravi-daws.git
+   90  git status
+   91  ls
+   92  cd ravi-daws/
+   93  git status
+   94  git config --global core.autocrlf true
+   95  git status
+   96  git add .
+   97  git status
+   98  git status
+   99  git ls -l
+  100  ls -l
+  101  pwd
+  102  ls
+  103  cd /D/JoinDevops/dev
+  104  cd /D/JoinDevops/devops/
+  105  ls -l
+  106  cd ravi-daws/
+  107  ls -l
+  108  git status
+  109  git .add
+  110  git add .
+  111  git status
+  112  git commit -m "cheking for error"
+  113  git push origin main
+  114  git add .
+  115  git commit -m "error is still coming"
+  116  cd ..
+  117  cd 
+  118  ls 
+  119  cd ravi-daws/
+  120  ls 
+  121  ls -ltr
+  122  cd
+  123  rm -rf ravi-daws/
+  124  ls
+  125  find . ravi-daws/
+  126  clear
+  127  history
+  128  clear
+  129  cd /D/JoinDevops/devops/
+  130  ls
+  131  cd ravi-daws/
+  132  git status
+  133  cd ..
+  134  git clone https://github.com/Dood-cloud/shell-script.git
+  135  cd
+  136  pwd
+  137  ssh -i /D/JoinDevops/devops/samplekey ec2-user@54.159.163.244
+  138  cd /D/JoinDevops/devops/
+  139  ls
+  140  cd shell-script/
+  141  git status
+  142  git add 01-script.txt
+  143  git commit -m "script for reading text from user"
+  144  git push origin main
+  145  git add .
+  146  git commit -m "running script in server"
+  147  git push origin main
+  148  git add .
+  149  git commit -m "brackets"
+  150  git push origin main
+  151  git add .
+  152  git commit -m "hello"
+  153  git push origin main
+  154  git add .
+  155  git commit -m "conversation"
+  156  git push origin main
+  157  git status
+  158  git add .
+  159  git commit -m "variables"
+  160  git push origin main
+  161  git add .
+  162  git commit -m "variables"
+  163  git push origin main
+  164  git add .
+  165  git commit -m "variables"
+  166  git push origin main
+  167  git add .
+  168  git status
+  169  git commit -m "variables"
+  170  git push origin main
+  171  git status
+  172  git add .
+  173  git commit -m "variables"
+  174  git push origin main
+  175  git status
+  176  git add .
+  177  git commit -m "reading input frm user"
+  178  git push origin main
+  179  git add .
+  180  git commit
+  181  git push origin main
+  182  git add .
+  183  git commit -m "array"
+  184  git push origin main
+  185  git add .
+  186  git commit -m "array"
+  187  git push origin main
+  188  git add .
+  189  git commit -m "array"
+  190  git push origin main
+  191  git add .
+  192  git commit -m "commandoutput"
+  193  git push origin main
+  194  git add .
+  195  git commit -m "commandoutput"
+  196  git push origin main
+  197  git add .
+  198  git commit -m "commandoutput"
+  199  git push origin main
+  200  git add .
+  201  git commit -m "commandoutput"
+  202  git push origin main
+  203  git add .
+  204  git commit -m "commandoutput"
+  205  git push origin main
+  206  cd
+  207  exit
+  208  git init
+  209  cd
+  210  pwd
+  211  ls
+  212  ls =l
+  213  ls -l
+  214  lszx
+  215  ls
+  216  cd /D/JoinDevops/
+  217  ls
+  218  cd devops/
+  219  ls
+  220  mkdir Ansible
+  221  ls
+  222  cd shell-script/
+  223  git add . ; git commit -m "changes" ; git push origin main
+  224  pwd
+  225  ls -a
+  226  rm -rf .git/
+  227  cd /D
+  228  ls
+  229  cd JoinDevops/
+  230  ls
+  231  cd d
+  232  cd devops/
+  233  ls
+  234  ls ravi-daws/
+  235  ls shell-script/
+  236  cd shell-script/
+  237  cd 
+  238  cd /D/JoinDevops/devops/
+  239  ls -l
+  240  git init
+  241  ls -l
+  242  ls -ltr
+  243  ls -l
+  244  ls
+  245  ls -la
+  246  cd .git/
+  247  ls
+  248  cat confit
+  249  cat config
+  250  vim config
+  251  cat config
+  252  git add .
+  253  cd ..
+  254  git add .
+  255  ls
+  256  cd shell-script/
+  257  ls
+  258  git add .
+  259  git status
+  260  git status
+  261  git add .
+  262  git commit -m "changes":git push origin main
+  263  git commit -m "changes": git push origin main
+  264  git commit -m "changes" : git push origin main
+  265  git commit -m "changes" ; git push origin main
+  266  git commit -m "changes" ; git push origin main
+  267  git add . ; git commit -m "changes" ; git push origin main
+  268  ls
+  269  cd ..
+  270  ls
+  271  cd Ansible
+  272  git clone https://github.com/Dood-cloud/Ansible.git
+  273  ls
+  274  ls -l
+  275  cd Ansible/
+  276  ls
+  277  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  278  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  279  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  280  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  281  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  282  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  283  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  284  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  285  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  286  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  287  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  288  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  289  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  290  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  291  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  292  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  293  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  294  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  295  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  296  cd /D
+  297  ls
+  298  cd JoinDevops/devops/
+  299  ls
+  300  cd Ansible/
+  301  ls
+  302  cd Ansible/
+  303  ls
+  304  cat 01
+  305  cat 01-ping-module.yml 
+  306  git status
+  307  git add . ; git commit -m "first ansible pb to ping" ; git push origin main
+  308  cd /D/JoinDevops/devops
+  309  ssh -i sample.key ec2-user@18.233.153.240
+  310  ssh -i sample.key ec2-user@100.24.24.24
+  311  ls
+  312  ssh -i samplekey ec2-user@100.24.24.24
+  313  ssh -i samplekey.pem ec2-user@100.24.24.24
+  314  ls -l
+  315  chmod 777 samplekey.pem
+  316  ls -l
+  317  sudo chmod 777 samplekey.pem
+  318  ssh-keygen
+  319  ls
+  320  cd /D/JoinDevops/devops/
+  321  ssh -i KeyPair ec2-user@54.205.248.239
+  322  ls -l
+  323  chmod 777 KeyPair
+  324  ls -l
+  325  sudo su
+  326  sudo
+  327  cd ..
+  328  sudo
+  329  sudo su -
+  330  cd /D
+  331  ls
+  332  cd /JoinDevops
+  333  cd JoinDevops/
+  334  ls
+  335  cd devops/
+  336  ls
+  337  cd ../
+  338  cd ..
+  339  cd JoinDevops/
+  340  ls
+  341  cd Softwares/
+  342  ls
+  343  cd terraform_1.9.5_windows_386/
+  344  terraform
+  345  cd ..
+  346  cd ../
+  347  cd devops/
+  348  ls
+  349  mkdir Terraform\
+  350   mkdri Terraform
+  351  mkdir Terraform
+  352  ls
+  353  cd Terraform/
+  354  ls
+  355  git clone https://github.com/Dood-cloud/terraform.git
+  356  ls
+  357  cd ../
+  358  rm -r Terraform/
+  359  ls
+  360  mkdir terraform
+  361  cd terraform/
+  362  git clone https://github.com/Dood-cloud/terraform.git
+  363  ls
+  364  cd ..
+  365  rm -r terraform/
+  366  cd Ansible/
+  367  cd ../terraform
+  368  cd .. terraform/
+  369  cd ..
+  370  git clone https://github.com/Dood-cloud/terraform.git
+  371  ls 
+  372  clear
+  373  aws configure
+  374  aws configure
+  375  cd /D/JoinDevops/devops/
+  376  aws configure
+  377  aws configure
+  378  ls
+  379  cd terraform
+  380  ls
+  381  cd ec2/
+  382  ls
+  383  clear
+  384  ls
+  385  cd ..
+  386  cd ec2/
+  387  terraform init
+  388  ls
+  389  terraform
+  390  cd D/
+  391  cd /D
+  392  cd JoinDevops/
+  393  cd Softwares/
+  394  ls
+  395  cd terraform_1.9.5_windows_386/
+  396  terraform
+  397  los
+  398  ls
+  399  cd /D/JoinDevops/Softwares/terraform_1.9.5_windows_386
+  400  terraform
+  401  ls
+  402  cd terraform.exe 
+  403  terraform init
+  404  cd ../D/JoinDevops
+  405  cd ..
+  406  terraform
+  407  terraform init
+  408  terraform
+  409  cd D:\JoinDevops\Softwares\terraform_1.9.5_windows_386\terraform.exe
+  410  cd D:\JoinDevops\Softwares\terraform_1.9.5_windows_386
+  411  cd D\JoinDevops\Softwares\terraform_1.9.5_windows_386
+  412  cd D/JoinDevops/Softwares/terraform_1.9.5_windows_386
+  413  cd /D
+  414  cd JoinDevops/Softwares/terraform_1.9.5_windows_386/
+  415  terraform
+  416  terraform
+  417  terraform init
+  418  cd /D
+  419  cd JoinDevops/Softwares/terraform_1.9.5_windows_386/terraform.exe 
+  420  cd JoinDevops/Softwares/terraform_1.9.5_windows_386/
+  421  terraform
+  422  cd D:\JoinDevops\Softwares\terraform_1.9.5_windows_386
+  423  cd /D
+  424  cd JoinDevops/Softwares/terraform_1.9.5_windows_386/
+  425  terraform
+  426  cd D/
+  427  cd /D/JoinDevops/Softwares/terraform_1.9.5_windows_386/
+  428  terraform
+  429  clear
+  430  cd ../
+  431  cd ../
+  432  cd devops/
+  433  ls
+  434  cd terraform
+  435  terraform
+  436  clear
+  437  ls
+  438  cd ec2/
+  439  ls
+  440  terraform init
+  441  aws config
+  442  clear
+  443  aws configure
+  444  aws configure
+  445  terraform init
+  446  terraform plan
+  447  terraform apply
+  448  terraform destroy
+  449  clear
+  450  ls -l
+  451  cd ..
+  452  cd ..
+  453  ls
+  454  rm -r terraform/
+  455  ls
+  456  git clone https://github.com/Dood-cloud/terraform.git
+  457  aws configure
+  458  terraform
+  459  cd D/JoinDevops/devops/
+  460  ls
+  461  clea
+  462  clear
+  463  aws configure
+  464  cd terraform
+  465  cd ec2/
+  466  ls -l
+  467  terraform init
+  468  terraform plan
+  469  terraform apply
+  470  clear
+  471  terraform plan
+  472  terraform plan
+  473  terraform plan
+  474  terraform apply
+  475  clear
+  476  terraform plan
+  477  terraform apply -auto-approve
+  478  terraform plan
+  479  terraform apply
+  480  terraform destroy -auto-approve
+  481  terraform apply -auto-approve
+  482  terraform destroy -auto-approve
+  483  cd ..
+  484  git status
+  485  git add ec2/
+  486  git status
+  487  git rm --cached ec2/
+  488  git status
+  489  git rm --cached ec2/
+  490  git rm -r cached ec2/
+  491  git rm -r --cached ec2/
+  492  git status
+  493  git add ec2/
+  494  git rm -r --cached ec2/
+  495  git add ec2/
+  496  git status
+  497  git commit -m "these are the .tf files for terraform"
+  498  git log
+  499  git push origin main
+  500  git status
+  501  terraform
+  502  terraform init
+  503  ls
+  504  ls -l
+  505  pwd
+  506  cd D/
+  507  cd JoinDevops/devops/
+  508  ls
+  509  cd terraform/ec2
+  510  ls -l
+  511  terraform init
+  512  terraform plan
+  513  terraform apply -auto-approve
+  514  terraform destroy -auto-approve
+  515  terraform plan
+  516  terraform apply -auto-approve
+  517  terraform destroy -auto-approve
+  518  terraform plan
+  519  terraform apply -auto-approve
+  520  terraform destroy -auto-approve
+  521  cd ..
+  522  ls
+  523  cd ..
+  524  ls
+  525  history >> Commands.txt 
+  526  git clone https://github.com/Dood-cloud/commands.txt.git
+  527  ls
+  528  git clone https://github.com/Dood-cloud/Command.git
+  529  ls
+  530  cd Command/
+  531  cd ..
+  532  mv Commands.txt /Command
+  533  ls 
+  534  cd Command/
+  535  git state
+  536  git status
+  537  ls
+  538  cd /terraform
+  539  ls -l
+  540  cd ..
+  541  ls -l
+  542  history >> Commands.txt
+  543  ls
+  544  mv Commands.txt /Command
+  545  cd /Command
+  546  ls
+  547  cd Command/
+  548  history >> Commands.txt
